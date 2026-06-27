@@ -26,4 +26,4 @@
 
 ## ライセンス
 
-Copyright@2026.6.28-
+Copyright　©2026 a605043, All rights reserved.
